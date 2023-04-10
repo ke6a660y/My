@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">130</string>
+    <string name="my_ads">Мои объявлениия</string>
+    <string name="cars_ads">Машины</string>
+    <string name="pc_ads">Компьютеры</string>
+    <string name="smartphone_ads">Смартфоны</string>
+    <string name="dm_ads">Бытовая техника</string>
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_out">Выход</string>
+    <string name="accaunt">Аккаунт</string>
+    <string name="email">E-mail</string>
+    <string name="password">Пароль</string>
+    <string name="sing_up_button">Зарегистрироваться</string>
+    <string name="sing_in_button">Войти</string>
+    <string name="sing_in_or_sign_up">Войдите или зарегестрируйтесь</string>
+    <!-- EditActivity-->
+    <string name="edit_ac_title">Название</string>
+    <string name="edit_ac_price">Цена</string>
+    <string name="edit_ac_discription">Описание</string>
+    <string name="edit_ac_tel">Телефон</string>
+
+    <string name="toggel_open">Open</string>
+    <string name="toggel_close">Close</string>
+    <!-- EditActivity-->
+    <string name="delete_title">Удалить Обявление?</string>
+    <string name="delete_message">Вы действитеьно хотите удалить объявление?</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="item_deleted">объявлене удалено!</string>
+</resources>

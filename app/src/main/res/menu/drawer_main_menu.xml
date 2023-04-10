@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn='navigation_view'>
+    <group android:checkableBehavior="single">
+        <item android:title="@string/my_ads"
+            android:id="@+id/id_my_ads"
+            android:icon="@drawable/ic_my_ads"/>
+        <item android:title="@string/cars_ads"
+            android:id="@+id/id_cars_ads"
+            android:icon="@drawable/ic_cars_ads"/>
+        <item android:title="@string/pc_ads"
+            android:id="@+id/id_pc_ads"
+            android:icon="@drawable/ic_pc_ads"/>
+        <item android:title="@string/dm_ads"
+            android:id="@+id/id_dm_ads"
+            android:icon="@drawable/ic_dm_ads"/>
+        <item android:title="@string/smartphone_ads"
+            android:id="@+id/id_smartphone_ads"
+            android:icon="@drawable/ic_smartphone_ads"/>
+    </group>
+    <item android:title="@string/accaunt">
+        <menu>
+            <item android:title="@string/sign_up"
+                android:id="@+id/id_sign_up"
+                android:icon="@drawable/ic_sign_up"/>
+            <item android:title="@string/sign_in"
+                android:id="@+id/id_sign_in"
+                android:icon="@drawable/ic_sign_in"/>
+            <item android:title="@string/sign_out"
+                android:id="@+id/id_sign_out"
+                android:icon="@drawable/ic_sign_out"/>
+        </menu>
+
+    </item>
+
+</menu>
